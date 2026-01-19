@@ -18,7 +18,9 @@ There are two seperate .cpp files and are required to compile, there should be t
 1.  Dimensions
 2.  Position
 3.  Font size
-   As per your experience choice and need
+
+
+As per your experience choice and need
 # Play
   Once fully set up the game may look like this:
   <img width="2249" height="945" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/7ce70e10-c0d5-4d2a-8a5e-cc8067445372" />
