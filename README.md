@@ -3,7 +3,7 @@ A CMD Space ship game utilizing only win32 api's coordnates asscess.
 # Purpose 
 1. To Utilize Win32 Api Coordinate asscess and creating a small game engine.
 2. To have input without Blocking the whole program using text files
-   Although i also know that the game is really simple and easy to win, But it's FUN! 
+Although i also know that the game is really simple and easy to win, But it's FUN! 
 # How to compile
 There are two seperate .cpp files and are required to compile, there should be two executables(.exe) in the same folder 
 1. Controls.exe ,and
