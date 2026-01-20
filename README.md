@@ -1,5 +1,7 @@
 # CMD-SpaceShip-Game
 A CMD Space ship game utilizing only win32 api's coordnates asscess.
+
+Note: ONLY FOR WINDOWS 
 # Purpose 
 1. To Utilize Win32 Api Coordinate asscess and creating a small game engine.
 2. To have input without Blocking the whole program using text files
